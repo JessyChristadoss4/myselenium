@@ -27,6 +27,8 @@ public class CheckBoxes {
 		Thread.sleep(1000);
 		
 		//checkbox1.clear();
+
+		driver.quit();
 		
 
 	}
