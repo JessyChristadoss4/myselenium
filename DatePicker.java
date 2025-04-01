@@ -19,6 +19,8 @@ public class DatePicker {
 			datepicker.sendKeys("03/29/25");
 			datepicker.sendKeys(Keys.RETURN);
 
+			driver.quit();
+
 			
 	}
 }
